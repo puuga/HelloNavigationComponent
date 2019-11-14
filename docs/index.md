@@ -1,3 +1,3 @@
 # HelloNavigationComponent
 
-HelloNavigationComponent
+This is HelloNavigationComponent project.
