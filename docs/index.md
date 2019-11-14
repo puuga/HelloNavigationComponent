@@ -1,5 +1,0 @@
-# HelloNavigationComponent
-
-This is HelloNavigationComponent project.
-
-index
