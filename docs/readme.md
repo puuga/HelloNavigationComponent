@@ -2,4 +2,4 @@
 
 This is HelloNavigationComponent project.
 
-index
+readme
